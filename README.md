@@ -1,10 +1,9 @@
 ## Hi, I'm Pratham👋
 
-Welcome to my page.
-I'm Pratham, Full Stack Developer & UI Designer!
+Welcome to my profile! I am a Full Stack Developer & a UI Designer!
 
 <p>
-  <a href="https://www.linkedin.com/in/thepratham05/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>thepratham05</a> 
+  <a href="https://www.linkedin.com/in/thepratham05/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
 </p>
 
 <!--
