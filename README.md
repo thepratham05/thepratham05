@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hey! Nice to see you.👋
+
+Welcome to my page.
+I'm Pratham, Full Stack Developer & UI Designer!
 
 <!--
 **thepratham05/thepratham05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
